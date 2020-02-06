@@ -39,7 +39,7 @@ main {
  'float' isn't ideal for layout, but works okay with two elements
 */
 
-/* 
+
 nav {
   flex-direction: column;
   width: 15%;
@@ -50,4 +50,3 @@ main {
   float: right;
   box-sizing: border-box;
 }
-*/
